@@ -10,4 +10,4 @@ if __name__ == "__main__":
    data = [[1,2,3],[1,3,2]]
    for i in data:
        print(catAndMouse(i[0],i[1],i[2]))
-
+    
